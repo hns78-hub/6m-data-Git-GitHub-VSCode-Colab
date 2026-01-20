@@ -1,5 +1,3 @@
-# Assignment
-
 ## Brief
 
 Enter instruction for assignment here.
