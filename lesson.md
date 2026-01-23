@@ -1,5 +1,5 @@
 # Git/GitHub/VS Code/Colab Bootcamp Lesson
-## Designed for Adult Learners (3 Hours | 48 Participants)
+## Designed for Adult Learners (3 Hours)
 
 ---
 
