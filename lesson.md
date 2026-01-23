@@ -12,7 +12,7 @@
 - Explain the three Git states (working directory → staging → committed) using a real project example
 - Create their first local repository and make 3 commits independently
 
-**Assessment:** Can they explain why they'd use `git add` before `git commit`?
+**Assessment:** Can you explain why you'd use `git add` before `git commit`?
 
 ---
 
@@ -44,7 +44,7 @@
 **Theme:** "Git is a time machine for your code"
 
 #### 1.1 Context Setting (5 min)
-- **Hook:** Show 2-minute video or live demo of project disaster (file named "final_v3_REAL_final_fix.py") → GitHub restore
+- **Hook:** Show 2-minute live demo of project disaster (file named "final_v3_REAL_final_fix.py") → GitHub restore
 - **Why now:** Data science is collaborative; Git prevents chaos
 - **Adult learning principle:** Start with relevance to their bootcamp projects
 
